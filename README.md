@@ -1,6 +1,7 @@
 # Creative-Project-2
 https://youtu.be/dTb0hapNFgo 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dTb0hapNFgo?si=KV6zXmcosWm4aSsO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Artist Statement 
 My artistic practice explores the intersection of humor and artificial intelligence. For my creative project, I utilized AI to help image generation tools to create comedic visuals, leveraging the technology's unexpected interpretations and occasional misfires. I wanted to revisit the concept we covered in class about AI producing funny and humorous images and to expand on the challenges faced in doing so.
 
